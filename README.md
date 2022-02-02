@@ -6,7 +6,6 @@ For this application I set up a little quiz game for users to play.  Taking the 
 https://github.com/Johnpo34/04_WebAPI
 # Deployed URL
 https://johnpo34.github.io/04_WebAPI/
-
 # Screenshot
 <img width="1249" alt="Screen Shot 2022-01-29 at 2 15 25 PM" src="https://user-images.githubusercontent.com/94233506/151674538-0690d731-74d9-4ef3-a6dc-f2193f051900.png">
 
